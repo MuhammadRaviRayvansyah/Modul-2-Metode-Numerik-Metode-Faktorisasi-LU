@@ -1,1 +1,0 @@
-# Modul-2-Metode-Numerik-Metode-Faktorisasi-LU
